@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, Soy Carlos Fenelon</h1>
 
+![carlos430 Banner Image](./github-header-image.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos430&label=Profile%20views&color=0e75b6&style=flat" alt="carlos430"/> </p>
 
 <h3 align="center">Soy Ingeniero en Sistema apasionado a la programación porque es la manera que puedo expresar mi conocimiento y mi creatividad.</h3>
 
-<h3>Languages and Tools</h3>
+<h3>Languages and Tools 🛠️</h3>
 
   <p>
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -34,10 +36,10 @@
 <a href="https://www.hackerrank.com/carlosfenelonla1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="carlosfenelonla1" height="30" width="40" /></a>
 </p>
 
-<h3>My GitHub Trophies</h3>
+<h3>My GitHub Trophies 🎖️</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlos430" alt="carlos430" /></a> </p>
 
-
+<h3>My GitHub Contributions Sumarry ⭐</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos430&show_icons=true&locale=en" alt="carlos430" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos430&" alt="carlos430" /></p>
 
