@@ -4,6 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos430&label=Profile%20views&color=0e75b6&style=flat" alt="carlos430"/> </p>
 
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
 <h3 align="center">Soy Ingeniero en Sistema apasionado a la programación porque es la manera que puedo expresar mi conocimiento y mi creatividad.</h3>
 
 <h3>Languages and Tools 🛠️</h3>
