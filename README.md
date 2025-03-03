@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Soy Carlos Fenelon</h1>
 
-![carlos430 Banner Image](./header.png)
+![carlos430 Banner Image](./github-header-image.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos430&label=Profile%20views&color=0e75b6&style=flat" alt="carlos430"/> </p>
 
