@@ -49,8 +49,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlos430" alt="carlos430" /></a> </p>
 
 <h3>My GitHub Contributions Sumarry ⭐</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos430&show_icons=true&locale=en" alt="carlos430" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos430&" alt="carlos430" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos430&show_icons=true&locale=en" alt="carlos430" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos430&" alt="carlos430" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos430&show_icons=true&locale=en&layout=compact" alt="carlos430" /></p>
 
